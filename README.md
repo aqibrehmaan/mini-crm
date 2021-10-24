@@ -27,6 +27,7 @@ copy '.env.example' content to new file '.env'
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
+php artisan storage:link
 php artisan serve
 php artisan queue:work
 
