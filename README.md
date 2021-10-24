@@ -31,7 +31,7 @@ php artisan serve
 php artisan queue:work
 
 ```
-To forget to add your own mailtrap credentials.
+Don't forget to add your own mailtrap credentials.
 
 ## License
 
